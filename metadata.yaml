@@ -1,0 +1,47 @@
+_repo: The-well-in-the-wood_74753
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cory, Fanny Y.
+    aliases:
+    - Cooney, Fanny Young Cory
+    - Cory, F. Y. (Fanny Y.)
+    birthdate: 1877
+    deathdate: 1972
+    gutenberg_agent_id: '33622'
+    url: http://www.gutenberg.org/2009/agents/33622
+    wikipedia: https://en.wikipedia.org/wiki/Fanny_Cory
+creator:
+  author:
+    agent_name: Taylor, Bert Leston
+    alias: Taylor, B. L. (Bert Leston)
+    birthdate: 1866
+    deathdate: 1921
+    gutenberg_agent_id: '34327'
+    url: http://www.gutenberg.org/2009/agents/34327
+    wikipedia: https://en.wikipedia.org/wiki/Bert_Leston_Taylor
+description: ''
+gutenberg_issued: '2024-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74753'
+language: en
+pgterms:marc904: https://archive.org/details/wellinwood00tayl/mode/2up
+pgterms:marc905: 20240917091932taylor
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, Jude Eylander who transcribed the music,
+  and the Online Distributed Proofreading Team at https://www.pgdp.net (This file
+  was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bAlfred A. Knopf, Inc., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The well in the wood
+url: http://www.gutenberg.org/ebooks/74753
